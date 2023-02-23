@@ -1,0 +1,9 @@
+name = "hono-kysely-example"
+main = "src/index.ts"
+compatibility_date = "2023-02-23"
+
+[[ d1_databases ]]
+binding = "DB"
+database_name = "yeah"
+database_id = "hoge"
+preview_database_id = "fuga"
